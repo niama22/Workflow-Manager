@@ -20,8 +20,4 @@ Une application web intuitive de création et gestion de workflows avec interfac
 - **Thème Épuré** - Design moderne avec couleurs harmonieuses
 - **Feedback Visuel** - États de sélection et hover bien visibles
 
-## 🛠️ Installation
 
-### Prérequis
-- Node.js
-- npm 
